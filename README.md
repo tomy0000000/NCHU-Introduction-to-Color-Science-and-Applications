@@ -2,7 +2,8 @@
 
 ## Homework
 
-| #    | Title                          |
-| ---- | ------------------------------ |
-| 1    | Cobidic combinational sequence |
+| #    | Title                                      |
+| ---- | ------------------------------------------ |
+| 1    | Cobidic combinational sequence             |
+| 2    | Elements of cobidic combinational sequence |
 
