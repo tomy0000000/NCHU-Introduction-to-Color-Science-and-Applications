@@ -6,5 +6,6 @@
 | ---- | ------------------------------------------ |
 | 1    | Cobidic combinational sequence             |
 | 2    | Elements of cobidic combinational sequence |
-| 3    | Color Transfer                             |
+| 3    | Color transfer                             |
+| 4    | Color transfer with information extraction |
 
