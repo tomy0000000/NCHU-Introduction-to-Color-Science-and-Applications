@@ -9,4 +9,5 @@
 | 3    | Color transfer                             |
 | 4    | Color transfer with information extraction |
 | 5    | Reverse color transfer                     |
+| 7    | IEEE-754 single precision conversion       |
 
