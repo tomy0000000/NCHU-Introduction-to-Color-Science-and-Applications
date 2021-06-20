@@ -15,4 +15,5 @@
 | 10   | Secret key generation for Arnold cat map                     |
 | 11   | Mean of Image, Variance of [Histogram](https://en.wikipedia.org/wiki/Image_histogram), [Shannon Entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)) |
 | 12   | Number of Pixel Change Rate & Unified Average Changing Intensity |
+| 13   | Correlation of Two Adjacent Pixels                           |
 
